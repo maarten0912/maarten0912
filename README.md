@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Maarten Meijer
-- 👀 I’m interested in Software Engineering and Cybersecurity
-- 🎓 I’m currently studying Technical Computer Science at the University of Twente
+- 👀 I’m interested in **Software Engineering**, **Data Science** and **Cybersecurity**
+- 🌱 I’m currently learning **Deep Learning** in Computer Vision using Pytorch and TensorRT
+- 🎓 I am studying Bachelor Technical Computer Science at the University of Twente
 - 📫 How to reach me: [Private mail](mailto://maarten0912@gmail.com) | [University mail](mailto://m.p.meijer@student.utwente.nl) | [Linkedin](https://www.linkedin.com/in/maartenmeijer0/)
 
 <!---
