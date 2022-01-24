@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ![Profile views](https://gpvc.arturio.dev/maarten0912)
 
 <h1 align="center">Hi 👋, I'm Maarten Meijer</h1>
-<h3 align="center">A passionate Cybersecurity and Deep Learning enthousiast from the Netherlands</h3>
+<h3 align="center">A passionate Computer Science enthousiast from the Netherlands</h3>
 
 - 👀 I’m interested in **Software Engineering**, **Data Science** and **Cybersecurity**
 - 🌱 I’m currently learning **Deep Learning** in Computer Vision using Pytorch and TensorRT
